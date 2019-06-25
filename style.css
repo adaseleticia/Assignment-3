@@ -1,6 +1,7 @@
 body
 {
 	background:rgba(250, 246, 198, 0.27058823529411763);
+	max-width:900px;
 }
 header{
 	color: black;
